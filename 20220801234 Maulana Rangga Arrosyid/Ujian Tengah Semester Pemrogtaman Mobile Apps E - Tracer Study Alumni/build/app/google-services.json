@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "261950039707",
+    "project_id": "pemrograman-mobile-4098e",
+    "storage_bucket": "pemrograman-mobile-4098e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261950039707:android:77195d158125443b21483e",
+        "android_client_info": {
+          "package_name": "com.example.e_tracer_alumni"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7X0EO4bGkX8ZYKCJBrVuV7tE-Tq8bL3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
